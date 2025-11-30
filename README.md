@@ -22,7 +22,7 @@ This project uses the **PlantVillage dataset**, one of the most widely used data
 ## 🔧 Data Preprocessing
 | Step | Description |
 |------|-------------|
-| Dataset Split | `train_dir` & `test_dir` to avoid data leakage |
+| Dataset | `train_dir` & `test_dir` |
 | Bad Image Removal | Automatically removed corrupted/unreadable images |
 | Image Resizing | All images resized to **128 × 128** |
 | Batch Size | 32 |
@@ -87,3 +87,14 @@ This makes the system user-friendly for:
 - Framework: **TensorFlow**
 
 **The Model has been trained on Google colab**
+
+---
+
+## ▶️ Run the Project on Your Computer
+**To run this project locally, use the following commands in your terminal:**
+
+pip install -r requirements.txt
+
+streamlit run app.py
+
+**These commands will install the required libraries and open the app in your browser (running locally on your computer).**
