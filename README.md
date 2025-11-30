@@ -82,9 +82,8 @@ This makes the system user-friendly for:
 
 ---
 
-## 🛠️ Technologies Used
-- Python  
-- TensorFlow
-- Convolutional Neural Networks (CNN)  
-- OpenCV / Image Processing  
-- Streamlit  
+## 🤖 Model Details
+- Architecture: **Convolutional Neural Network (CNN)**
+- Framework: **TensorFlow**
+
+**The Model has been trained on Google colab**
