@@ -43,7 +43,9 @@ To increase dataset variability and prevent overfitting:
 A **Convolutional Neural Network (CNN)** was trained to identify tomato leaf diseases.
 
 Total parameters: 1,315,371
+
 Trainable parameters: 1,312,427
+
 Non-trainable parameters: 2,944
 
 Model was trained with:
